@@ -1,0 +1,149 @@
+* {
+   margin: 0px;
+}
+#first_div {
+   width: 50%;
+   margin: 40px 0px 0px 70px;
+   padding: 120px 0px 0px 60px;
+}
+.first_section {
+   background-color: rgba(248, 214, 218, 0.799);
+
+   display: flex;
+}
+#first_img {
+   padding: 20px 30px 0px 30px;
+}
+.button {
+   background-color: rgb(160, 29, 60);
+   text-decoration: none;
+   color: white;
+
+   padding: 15px 30px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+#Second_div {
+   text-align: center;
+   padding-top: 110px;
+}
+#shape1 {
+   width: 300px;
+   height: 400px;
+   background-color: #f3dce4cd;
+   border-radius: 300px 300px 0 0;
+   margin: 70px;
+}
+#shape2 {
+   width: 300px;
+   height: 400px;
+   background-color: #27504741;
+   border-radius: 300px 300px 0 0;
+   margin: 70px;
+}
+#shape3 {
+   width: 300px;
+   height: 400px;
+   background-color: #48389864;
+   border-radius: 300px 300px 0 0;
+   margin: 70px;
+}
+.shape_section,
+#fifth_section {
+   display: flex;
+}
+.third_div {
+   display: flex;
+   margin-top: 0px;
+   margin-left: 200px;
+}
+#flowre_name1 {
+   padding-left: 10px;
+   text-decoration: underline;
+}
+#flowre_name2 {
+   padding-left: 390px;
+   text-decoration: underline;
+}
+#flowre_name3 {
+   padding-left: 400px;
+   text-decoration: underline;
+}
+.fourth_div {
+   width: 1370px;
+   height: 200px;
+   background-color: rgba(140, 136, 136, 0.778);
+   margin-left: 70px;
+   margin-top: 20px;
+   display: flex;
+}
+#fourth_first_image {
+   padding-top: 60px;
+   padding-left: 250px;
+}
+#fourth_second_image {
+   padding-top: 60px;
+   padding-left: 280px;
+}
+#fourth_third_image {
+   padding-top: 60px;
+   padding-left: 280px;
+}
+.fifth_div {
+   width: 50%;
+   margin: 40px 0px 0px 70px;
+   padding: 120px 0px 0px 500px;
+}
+.fourth_section {
+   margin-top: 80px;
+   background-color: rgba(241, 229, 230, 0.718);
+   display: flex;
+}
+.second_img {
+   margin-left: 20px;
+   padding-left: 50px;
+   padding-right: 10px;
+}
+.fifth_section {
+   text-align: center;
+   margin-top: 60px;
+}
+.four_img {
+   margin-left: 70px;
+   display: flex;
+   padding-left: 10px;
+}
+span {
+   color: rgb(160, 29, 60);
+}
+.background_img {
+   background-image: url("Rectangle\ 9.png");
+   width: 1390px;
+   height: 300px;
+   margin-left: 70px;
+   margin: 60px;
+   text-align: center;
+   padding-top: 200px;
+   background-repeat: no-repeat;
+}
+.button_1 {
+   background-color: rgb(160, 29, 60);
+   text-decoration: none;
+   color: white;
+   padding: 15px 30px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.form {
+   margin-top: 50px;
+}
+.fotter_div {
+   text-align: center;
+   height: 200px;
+   background-color: rgb(0, 0, 0);
+   margin-top: 20px;
+   color: rgba(255, 255, 255, 0.786);
+   padding-top: 70px;
+}
